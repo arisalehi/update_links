@@ -1,5 +1,5 @@
-vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipmkh.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie2.webtoodoo.top#usr2-cdn-Noosha-khaleh-mkh-grpc
-vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipcl.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie2.webtoodoo.top#usr2-cdn-Noosha-khaleh-mci-grpc
-vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipcl.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie2.webtoodoo.top&fp=chrome&type=ws&sni=maggie2.webtoodoo.top#usr1-cdn-Nooosha-khaleh-mci-ws
-vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipmkh.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie2.webtoodoo.top&fp=chrome&type=ws&sni=maggie2.webtoodoo.top#usr1-cdn-Nooosha-khaleh-mkh-ws
+vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipmkh.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie22.webtoodoo.top#usr2-cdn-Noosha-khaleh-mkh-grpc
+vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipcl.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie22.webtoodoo.top#usr2-cdn-Noosha-khaleh-mci-grpc
+vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipcl.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie22.webtoodoo.top&fp=chrome&type=ws&sni=maggie22.webtoodoo.top#usr1-cdn-Nooosha-khaleh-mci-ws
+vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipmkh.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie22.webtoodoo.top&fp=chrome&type=ws&sni=maggie22.webtoodoo.top#usr1-cdn-Nooosha-khaleh-mkh-ws
 alppath=
