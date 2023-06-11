@@ -1,4 +1,4 @@
-vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipcl.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie7.webtoodoo.top&fp=chrome&type=ws&sni=maggie7.webtoodoo.top#usr1-cdn-Hossein.K
-vless://be585da6-c294-4812-b810-e3138f45fd40@ipcl.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie7.webtoodoo.top#usr2-cdn-Hossein-K2
-vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipztl.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie7.webtoodoo.top&fp=chrome&type=ws&sni=maggie7.webtoodoo.top#MTN-Hossein.K
-vless://be585da6-c294-4812-b810-e3138f45fd40@ipztl.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie7.webtoodoo.top#MTN-Hossein-K2
+vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Hossein.K-MCI
+vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipmtn.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Hossein.K-MTN
+vless://be585da6-c294-4812-b810-e3138f45fd40@ipcl.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Hossein-K2-MCI
+vless://be585da6-c294-4812-b810-e3138f45fd40@ipmtn.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Hossein-K2-MTN
