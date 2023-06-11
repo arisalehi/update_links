@@ -1,2 +1,4 @@
-vless://91f37ce4-81f1-41a6-cd23-836ba5a21dfc@ipcl.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie9.webtoodoo.top&fp=chrome&type=ws&sni=maggie9.webtoodoo.top#usr1-cdn-LalehYa1
-vless://a0d22e39-d07f-4762-bf33-d8bd401c0cd2@ipcl.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie9.webtoodoo.top#usr2-cdn-LalehYa2
+vless://a0d22e39-d07f-4762-bf33-d8bd401c0cd2@ipcl.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-LalehYa2-MCI
+vless://91f37ce4-81f1-41a6-cd23-836ba5a21dfc@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-LalehYa1-MCI
+vless://91f37ce4-81f1-41a6-cd23-836ba5a21dfc@ipmtn.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-LalehYa1-MTN
+vless://a0d22e39-d07f-4762-bf33-d8bd401c0cd2@ipmtn.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-LalehYa2-MTN
