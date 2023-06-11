@@ -1,5 +1,4 @@
-vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipmkh.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie22.webtoodoo.top#usr2-cdn-Noosha-khaleh-mkh-grpc
-vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipcl.webtoodoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=maggie22.webtoodoo.top#usr2-cdn-Noosha-khaleh-mci-grpc
-vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipcl.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie22.webtoodoo.top&fp=chrome&type=ws&sni=maggie22.webtoodoo.top#usr1-cdn-Nooosha-khaleh-mci-ws
-vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipmkh.webtoodoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=maggie22.webtoodoo.top&fp=chrome&type=ws&sni=maggie22.webtoodoo.top#usr1-cdn-Nooosha-khaleh-mkh-ws
-alppath=
+vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipcl.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Noosha-khaleh-MCI
+vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipmkh.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Noosha-khaleh-MKH
+vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Nooosha-khaleh-MCI
+vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipmkh.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Nooosha-khaleh-MKH
