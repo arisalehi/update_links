@@ -1,3 +1,2 @@
-vless://f028de57-dc4b-404a-d921-b22593d87ee7@ipcl.webfreedoo.shop:8443?encryption=none&security=tls&sni=chopo3.webfreedoo.shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=chopo3.webfreedoo.shop&path=%2F#Saman-MCI%40samansadeghii
-vless://f028de57-dc4b-404a-d921-b22593d87ee7@ipshtl.webfreedoo.shop:8443?encryption=none&security=tls&sni=chopo3.webfreedoo.shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=chopo3.webfreedoo.shop&path=%2F#Saman-SHTL%40samansadeghii
-vless://f028de57-dc4b-404a-d921-b22593d87ee7@ipztl.webfreedoo.shop:8443?encryption=none&security=tls&sni=chopo3.webfreedoo.shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=chopo3.webfreedoo.shop&path=%2F#Saman-MTN%40samansadeghii
+vless://d1593d40-4174-40d7-b851-d00da607095b@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Sam-ws-MCI
+vless://d1593d40-4174-40d7-b851-d00da607095b@ipshtl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Sam-ws-SHT
