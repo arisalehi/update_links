@@ -1,4 +1,4 @@
-vless://006dad61-559c-4224-f537-f9c46e490127@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Melory1-MCI
-vless://006dad61-559c-4224-f537-f9c46e490127@ipmkh.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Melory1-MKH
-vless://8ef997c9-7aa7-459b-d53d-8661004b9f43@ipcl.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Melory2-MCI
-vless://8ef997c9-7aa7-459b-d53d-8661004b9f43@ipmkh.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Melory2-MKH
+vless://006dad61-559c-4224-f537-f9c46e490127@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=me1.scoobidoo.top&type=ws&host=me1.scoobidoo.top&path=%2F#usr1-cdn-Melory1-MCI
+vless://006dad61-559c-4224-f537-f9c46e490127@ipmkh.scoobidoo.top:2096?encryption=none&security=tls&sni=me1.scoobidoo.top&type=ws&host=me1.scoobidoo.top&path=%2F#usr1-cdn-Melory1-MKH
+vless://8ef997c9-7aa7-459b-d53d-8661004b9f43@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=me1.scoobidoo.top&type=grpc#usr2-cdn-Melory2-MCI
+vless://8ef997c9-7aa7-459b-d53d-8661004b9f43@ipmkh.scoobidoo.top:8443?encryption=none&security=tls&sni=me1.scoobidoo.top&type=grpc#usr2-cdn-Melory2-MKH
