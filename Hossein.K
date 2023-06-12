@@ -1,2 +1,0 @@
-vless://a1ee2cfe-162a-4352-8296-fedc9debf0b6@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=chopo8.webfreedoo.shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=chopo8.webfreedoo.shop&path=%2F#Hossein.K-MCI
-vless://a1ee2cfe-162a-4352-8296-fedc9debf0b6@ipztl.webfreedoo.shop:2096?encryption=none&security=tls&sni=chopo8.webfreedoo.shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=chopo8.webfreedoo.shop&path=%2F#Hossein.K-MTN
