@@ -1,4 +1,4 @@
-vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipcl.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Noosha-khaleh-MCI
-vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipmkh.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-Noosha-khaleh-MKH
-vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Nooosha-khaleh-MCI
-vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipmkh.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Nooosha-khaleh-MKH
+vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=ni1.scoobidoo.top&type=ws&host=ni1.scoobidoo.top&path=%2F#usr1-cdn-Nooosha-khaleh-MCI
+vless://034e6848-e988-46cd-c6bd-b06fa5c50882@ipmkh.scoobidoo.top:2096?encryption=none&security=tls&sni=ni1.scoobidoo.top&type=ws&host=ni1.scoobidoo.top&path=%2F#usr1-cdn-Nooosha-khaleh-MKH
+vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=ni1.scoobidoo.top&type=grpc#usr2-cdn-Noosha-khaleh-MCI
+vless://5a2d02c1-77b3-4917-cbbc-101d5f839f69@ipmkh.scoobidoo.top:8443?encryption=none&security=tls&sni=ni1.scoobidoo.top&type=grpc#usr2-cdn-Noosha-khaleh-MKH
