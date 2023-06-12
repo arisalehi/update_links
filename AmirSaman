@@ -1,2 +1,5 @@
-vless://a2cda593-2aae-4753-99fd-2d91bfee6528@ipcl.webfreedoo.shop:2096?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=ws&host=admin.webfreedoo.shop&path=%2F#usr1-cdn-Asaman-MCI
-vless://55bb0537-abbb-4911-d820-7769abaaeaab@ipcl.webfreedoo.shop:8443?encryption=none&security=tls&sni=admin.webfreedoo.shop&type=grpc#usr2-cdn-AmirSaman-MCI
+vless://a2cda593-2aae-4753-99fd-2d91bfee6528@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=as1.scoobidoo.top&type=ws&host=as1.scoobidoo.top&path=%2F#usr1-cdn-Asaman-MCI
+vless://a2cda593-2aae-4753-99fd-2d91bfee6528@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=as1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=as1.scoobidoo.top&path=%2F#usr1-cdn-Asaman-MTN
+vless://55bb0537-abbb-4911-d820-7769abaaeaab@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=asa1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-AmirSaman-MTN
+vless://55bb0537-abbb-4911-d820-7769abaaeaab@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=asa1.scoobidoo.top&type=grpc#usr2-cdn-AmirSaman-MCI
+
