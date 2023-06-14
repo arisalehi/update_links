@@ -1,4 +1,4 @@
-vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=hk1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=hk1.scoobidoo.top&path=%2F#usr1-cdn-Hossein.K-MTN
-vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=hk1.scoobidoo.top&type=ws&host=hk1.scoobidoo.top&path=%2F#usr1-cdn-Hossein.K-MCI
-vless://be585da6-c294-4812-b810-e3138f45fd40@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=hk1.scoobidoo.top&type=grpc#usr2-cdn-Hossein-K2-MCI
-vless://be585da6-c294-4812-b810-e3138f45fd40@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=hk1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-Hossein-K2-MTN
+vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=hk1.scoobidoo.top&fp=chrome&type=ws&sni=HK1.SCOOBIDOO.TOP#usr1-cdn-Hossein.K-MTN
+vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=hk1.scoobidoo.top&type=ws&sni=HK1.SCOOBIDOO.TOP#usr1-cdn-Hossein.K-MCI
+vless://be585da6-c294-4812-b810-e3138f45fd40@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=HK1.SCOOBIDOO.TOP#usr2-cdn-Hossein-K2-MCI
+vless://be585da6-c294-4812-b810-e3138f45fd40@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=HK1.SCOOBIDOO.TOP#usr2-cdn-Hossein-K2-MTN
