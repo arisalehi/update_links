@@ -1,5 +1,5 @@
 vless://502ee602-e544-4bd2-f678-fbde8abfedc7@ipcl.aristarlight.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=abi9.aristarlight.top#TR-vless-grpc-cdn-Ari
-vless://a7c8e47e-99b3-4560-857f-012f7cd8ae8c@admin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=0e043185#usr2-ws-Arian-Reality
+vless://a7c8e47e-99b3-4560-857f-012f7cd8ae8c@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=0e043185#usr2-ws-Arian-Reality
 vless://02eed02d-07e0-49f9-9320-644ba7607054@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko4.ariandoo.xyz#usr-cdn-Ariandoo
 vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=admin.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=admin.scoobidoo.top&path=%2F#usr1-cdn-Arian1
 vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipmtn.scoobidoo.top:2087?encryption=none&security=tls&sni=admin.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=firefox&type=grpc#usr3-cdn-Ariii
