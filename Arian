@@ -7,4 +7,4 @@ vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipmtn.scoobidoo.top:8443?encryption
 vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=ar1.scoobidoo.top&type=grpc#usr2-cdn-Arian2-MCI
 vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipcl.scoobidoo.top:2087?encryption=none&security=tls&sni=ar1.scoobidoo.top&type=grpc#usr3-cdn-Ariii-MCI
 vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipmtn.scoobidoo.top:2087?encryption=none&security=tls&sni=ar1.scoobidoo.top&type=grpc#usr3-cdn-Ariii-MTN
-
+vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=ar1.scoobidoo.top&type=ws&sni=ar1.scoobidoo.top#usr1-cdn-Arian1
