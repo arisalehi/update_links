@@ -1,6 +1,5 @@
-vless://35196916-0a13-4c65-bcfe-d41328403d1d@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=sa1.scoobidoo.top&type=grpc#usr2-cdn-Sara-MCI
-vless://35196916-0a13-4c65-bcfe-d41328403d1d@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=sa1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-Sara-MTN
-vless://b815233c-bbb3-4b81-d748-08d8fcf841d2@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=sa1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=sa1.scoobidoo.top&path=%2F#usr1-cdn-Saradel-MTN
-vless://b815233c-bbb3-4b81-d748-08d8fcf841d2@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=sa1.scoobidoo.top&type=ws&host=sa1.scoobidoo.top&path=%2F#usr1-cdn-Saradel-MCI
+vless://35196916-0a13-4c65-bcfe-d41328403d1d@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=SA1.SCOOBIDOO.TOP#usr2-cdn-Sara-MCI
+vless://35196916-0a13-4c65-bcfe-d41328403d1d@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=SA1.SCOOBIDOO.TOP#usr2-cdn-Sara-MTN
+vless://b815233c-bbb3-4b81-d748-08d8fcf841d2@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=sa1.scoobidoo.top&fp=chrome&type=ws&sni=SA1.SCOOBIDOO.TOP#usr1-cdn-Saradel-MTN
+vless://b815233c-bbb3-4b81-d748-08d8fcf841d2@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=sa1.scoobidoo.top&type=ws&sni=SA1.SCOOBIDOO.TOP#usr1-cdn-Saradel-MCI
 vless://75b7315d-e7dd-4471-aa17-e7807bca9f48@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko2.ariandoo.xyz#usr-cdn-sara
-
