@@ -1,5 +1,4 @@
-vless://af77597a-f36d-4640-a080-9670529d7e31@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=noo1.scoobidoo.top&type=ws&host=noo1.scoobidoo.top&path=%2F#usr1-cdn-Nooshafarin-MCI
-vless://af77597a-f36d-4640-a080-9670529d7e31@ipshtl.scoobidoo.top:2096?encryption=none&security=tls&sni=noo1.scoobidoo.top&type=ws&host=noo1.scoobidoo.top&path=%2F#usr1-cdn-Nooshafarin-SHT
-vless://3ae4c4ae-c008-45f4-f192-36322d145001@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=noo1.scoobidoo.top&type=grpc#usr2-cdn-Nooshafarin2-MCI
-vless://3ae4c4ae-c008-45f4-f192-36322d145001@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=noo1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-Nooshafarin2-MTN
-
+vless://af77597a-f36d-4640-a080-9670529d7e31@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=noo1.scoobidoo.top&type=ws&sni=NOO1.SCOOBIDOO.TOP#usr1-cdn-Nooshafarin-MCI
+vless://af77597a-f36d-4640-a080-9670529d7e31@ipshtl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=noo1.scoobidoo.top&type=ws&sni=NOO1.SCOOBIDOO.TOP#usr1-cdn-Nooshafarin-SHT
+vless://3ae4c4ae-c008-45f4-f192-36322d145001@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=NOO1.SCOOBIDOO.TOP#usr2-cdn-Nooshafarin2-MCI
+vless://3ae4c4ae-c008-45f4-f192-36322d145001@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=NOO1.SCOOBIDOO.TOP#usr2-cdn-Nooshafarin2-MTN
