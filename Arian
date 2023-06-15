@@ -1,10 +1,8 @@
-vless://502ee602-e544-4bd2-f678-fbde8abfedc7@ipcl.aristarlight.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=abi9.aristarlight.top#TR-vless-grpc-cdn-Ari
+vless://502ee602-e544-4bd2-f678-fbde8abfedc7@ipcl.aristarlight.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=ABI9.ARISTARLIGHT.TOP#TR-vless-grpc-cdn-Ari
 vless://a7c8e47e-99b3-4560-857f-012f7cd8ae8c@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=0e043185#usr2-ws-Arian-Reality
 vless://02eed02d-07e0-49f9-9320-644ba7607054@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko4.ariandoo.xyz#usr-cdn-Ariandoo
-vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=admin.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=admin.scoobidoo.top&path=%2F#usr1-cdn-Arian1
-vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipmtn.scoobidoo.top:2087?encryption=none&security=tls&sni=admin.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=firefox&type=grpc#usr3-cdn-Ariii
-vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=ar1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-Arian2-MTN
-vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=ar1.scoobidoo.top&type=grpc#usr2-cdn-Arian2-MCI
-vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipcl.scoobidoo.top:2087?encryption=none&security=tls&sni=ar1.scoobidoo.top&type=grpc#usr3-cdn-Ariii-MCI
-vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipmtn.scoobidoo.top:2087?encryption=none&security=tls&sni=ar1.scoobidoo.top&type=grpc#usr3-cdn-Ariii-MTN
-vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=ar1.scoobidoo.top&type=ws&sni=ar1.scoobidoo.top#usr1-cdn-Arian1
+vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ARI1.SCOOBIDOO.TOP&fp=chrome&type=ws&sni=ARI1.SCOOBIDOO.TOP#usr1-cdn-Arian1
+vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipmtn.scoobidoo.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr3-cdn-Ariii
+vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr2-cdn-Arian2-MCI
+vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipmtn.scoobidoo.top:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr3-cdn-Ariii-MTN
+vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=ARI1.SCOOBIDOO.TOP&type=ws&sni=ARI1.SCOOBIDOO.TOP#usr1-cdn-Arian1
