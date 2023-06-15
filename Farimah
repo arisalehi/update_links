@@ -1,5 +1,6 @@
 vless://9f8c261a-05be-4e87-a439-5981acefe4d4@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko.ariandoo.xyz#usr-cdn-farim
-vless://e30d62be-e1de-460c-cbf7-384874d03950@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=fa1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-Farimah-MTN
-vless://e30d62be-e1de-460c-cbf7-384874d03950@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=fa1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-Farimah-MCI
-vless://48d3924a-3b51-4ef3-a8b0-0eeb1580499f@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=farfar1.scoobidoo.top&type=ws&host=farfar1.scoobidoo.top&path=%2F#usr1-cdn-farfar-MCI
-vless://48d3924a-3b51-4ef3-a8b0-0eeb1580499f@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=farfar1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=farfar1.scoobidoo.top&path=%2F#usr1-cdn-farfar-MTN
+vless://e30d62be-e1de-460c-cbf7-384874d03950@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=FA1.SCOOBIDOO.TOP#usr2-cdn-Farimah-MTN
+vless://e30d62be-e1de-460c-cbf7-384874d03950@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=FA1.SCOOBIDOO.TOP#usr2-cdn-Farimah-MCI
+vless://48d3924a-3b51-4ef3-a8b0-0eeb1580499f@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=farfar1.scoobidoo.top&type=ws&sni=FARFAR1.SCOOBIDOO.TOP#usr1-cdn-farfar-MCI
+vless://48d3924a-3b51-4ef3-a8b0-0eeb1580499f@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=farfar1.scoobidoo.top&fp=chrome&type=ws&sni=FARFAR1.SCOOBIDOO.TOP#usr1-cdn-farfar-MTN
+
