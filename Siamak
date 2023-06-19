@@ -1,5 +1,5 @@
-vless://0521d586-913a-49c8-8e9b-81f16df1a540@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=siam1.scoobidoo.top&type=ws&host=siam1.scoobidoo.top&path=%2F#usr1-cdn-Siamak1-MCI
+vless://0521d586-913a-49c8-8e9b-81f16df1a540@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=SIAM1.SCOOBIDOO.TOP&type=ws&sni=SIAM1.SCOOBIDOO.TOP#usr1-cdn-Siamak1-MCI
+vless://321fae75-d346-4e23-bbd9-45e4b634d764@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=SIAM1.SCOOBIDOO.TOP#usr2-cdn-Siamak2-MCI
 vless://0521d586-913a-49c8-8e9b-81f16df1a540@ipmkh.scoobidoo.top:2096?encryption=none&security=tls&sni=siam1.scoobidoo.top&type=ws&host=siam1.scoobidoo.top&path=%2F#usr1-cdn-Siamak1-MKH
-vless://321fae75-d346-4e23-bbd9-45e4b634d764@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=siam1.scoobidoo.top&type=grpc#usr2-cdn-Siamak2-MCI
 vless://321fae75-d346-4e23-bbd9-45e4b634d764@ipmkh.scoobidoo.top:8443?encryption=none&security=tls&sni=siam1.scoobidoo.top&type=grpc#usr2-cdn-Siamak2-MKH
-vless://d1295e77-d86a-442e-9976-0f9388e821b0@ipcl.aristarlight.top:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=abi61.aristarlight.top#TR-vless-grpc-cdn-Siamak
+
