@@ -1,0 +1,5 @@
+vless://3fd83ec8-0e2b-4957-ee55-d69fb92b7df1@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko15.ariandoo.xyz#usr-cdn-FarshVPN-MTN
+vless://baff59e4-d06e-4083-8853-5ef7286f7a4b@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=FARSH.SCOOBIDOO.TOP&fp=chrome&type=ws&sni=FARSH.SCOOBIDOO.TOP#usr1-cdn-Farsh1-MTN
+vless://baff59e4-d06e-4083-8853-5ef7286f7a4b@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=FARSH.SCOOBIDOO.TOP&type=ws&sni=FARSH.SCOOBIDOO.TOP#usr1-cdn-Farsh1-MCI
+vless://c8c188d3-2c71-4eee-8a92-0445a8697c51@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=FARSH.SCOOBIDOO.TOP#usr2-cdn-Farsh2-MTN
+vless://c8c188d3-2c71-4eee-8a92-0445a8697c51@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=FARSH.SCOOBIDOO.TOP#usr2-cdn-Farsh2-MCI
