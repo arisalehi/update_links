@@ -1,0 +1,4 @@
+vless://404b54d6-dd61-412e-fedd-1b65dc984831@mynoname.ddns.net:2096?encryption=none&security=tls&sni=USR1.SCOOBIDOO.TOP&type=ws&host=USR1.SCOOBIDOO.TOP&path=%2F#usr1-cdn-VPN-MCI
+vless://379eead8-02f5-441d-8251-d80355e20103@mynoname.ddns.net:8443?encryption=none&security=tls&sni=USR1.SCOOBIDOO.TOP&type=grpc#usr2-cdn-VPN-usr-MCI
+vless://404b54d6-dd61-412e-fedd-1b65dc984831@ipmbt.scoobidoo.top:2096?encryption=none&security=tls&sni=USR1.SCOOBIDOO.TOP&type=ws&host=USR1.SCOOBIDOO.TOP&path=%2F#usr1-cdn-VPN-MBT
+vless://379eead8-02f5-441d-8251-d80355e20103@ipmbt.scoobidoo.top:8443?encryption=none&security=tls&sni=USR1.SCOOBIDOO.TOP&type=grpc#usr2-cdn-VPN-usr-MBT
