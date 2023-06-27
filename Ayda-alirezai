@@ -1,0 +1,5 @@
+vless://74362c57-f668-4a33-c66d-aa2b2547ed30@mynoname.ddns.net:2096?encryption=none&security=tls&sni=AYD1.SCOOBIDOO.TOP&type=ws&host=AYD1.SCOOBIDOO.TOP&path=%2F#usr1-cdn-Ayda1-MCI
+vless://b8361f02-55aa-49f1-b83d-6d31a0000462@mynoname.ddns.net:8443?encryption=none&security=tls&sni=AYD1.SCOOBIDOO.TOP&type=grpc#usr2-cdn-Ayda2-MCI
+vless://ceddfab4-5c4a-4671-b64c-061ccbc71c1c@ipztl.ariandoo.xyz:8443?encryption=none&security=tls&sni=zinchenko11.ariandoo.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr-cdn-Ayda-MTN
+vless://3054bc00-d828-4d02-92ee-26d876ce085e@newadmin.ariandoo.xyz:443?encryption=none&security=reality&sni=discord.com&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sid=0e043185&spx=%2F&type=grpc#usr2-ws-Ayda-Real
+vless://74362c57-f668-4a33-c66d-aa2b2547ed30@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=ayd1.scoobidoo.top&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ayd1.scoobidoo.top&path=%2F#usr1-cdn-Ayda1-MTN
