@@ -1,5 +1,5 @@
 vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=hk1.scoobidoo.top&fp=chrome&type=ws&sni=HK1.SCOOBIDOO.TOP#usr1-cdn-Hossein.K-MTN
-vless://540bb80d-522b-43ca-a3f7-f2c196a41265@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=hk1.scoobidoo.top&type=ws&sni=HK1.SCOOBIDOO.TOP#usr1-cdn-Hossein.K-MCI
-vless://be585da6-c294-4812-b810-e3138f45fd40@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=HK1.SCOOBIDOO.TOP#usr2-cdn-Hossein-K2-MCI
+vless://540bb80d-522b-43ca-a3f7-f2c196a41265@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=hk1.scoobidoo.top&type=ws&sni=HK1.SCOOBIDOO.TOP#usr1-cdn-Hossein.K-MCI
+vless://be585da6-c294-4812-b810-e3138f45fd40@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=HK1.SCOOBIDOO.TOP#usr2-cdn-Hossein-K2-MCI
 vless://be585da6-c294-4812-b810-e3138f45fd40@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=HK1.SCOOBIDOO.TOP#usr2-cdn-Hossein-K2-MTN
 vless://0576c052-4720-49a3-8326-bb0a958eb8c8@newadmin.ariandoo.xyz:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sni=discord.com&sid=0e043185&spx=%2F#usr2-ws-Hossein-K
