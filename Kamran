@@ -3,3 +3,4 @@ vless://f55eb2c3-7710-44e5-e685-f2a3a938b521@mynoname.ddns.net:8443?mode=gun&sec
 vless://2081fd41-8392-46bc-ec09-13968ab330fe@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=KAM1.SCOOBIDOO.TOP&fp=chrome&type=ws&sni=KAM1.SCOOBIDOO.TOP#usr1-cdn-Kamran1-MTN
 vless://f55eb2c3-7710-44e5-e685-f2a3a938b521@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=KAM1.SCOOBIDOO.TOP#usr2-cdn-Kamran2-MTN
 vless://74dd3cd0-753c-4d4a-9cca-7a7491219514@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=0e043185#usr2-Kamran-reality
+vless://2c846db7-2c21-44d1-8587-3ccb97b64811@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko21.ariandoo.xyz#usr-cdn-Kamran-MTN
