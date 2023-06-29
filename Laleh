@@ -1,5 +1,6 @@
-vless://91f37ce4-81f1-41a6-cd23-836ba5a21dfc@ipcl.scoobidoo.top:2096?encryption=none&security=tls&sni=LA1.SCOOBIDOO.TOP&type=ws&host=la1.scoobidoo.top&path=%2F#usr1-cdn-LalehYa1-MCI
+vless://0a59c3f5-fab7-4521-a972-9432e067113d@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=0e043185#usr2-Lale-reality-MTN
+vless://91f37ce4-81f1-41a6-cd23-836ba5a21dfc@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=la1.scoobidoo.top&type=ws&sni=LA1.SCOOBIDOO.TOP#usr1-cdn-LalehYa1-MCI
 vless://91f37ce4-81f1-41a6-cd23-836ba5a21dfc@ipmtn.scoobidoo.top:2096?encryption=none&security=tls&sni=LA1.SCOOBIDOO.TOP&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=la1.scoobidoo.top&path=%2F#usr1-cdn-LalehYa1-MTN
-vless://a0d22e39-d07f-4762-bf33-d8bd401c0cd2@ipcl.scoobidoo.top:8443?encryption=none&security=tls&sni=LA1.SCOOBIDOO.TOP&type=grpc#usr2-cdn-LalehYa2-MCI
+vless://a0d22e39-d07f-4762-bf33-d8bd401c0cd2@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=LA1.SCOOBIDOO.TOP#usr2-cdn-LalehYa2-MCI
 vless://a0d22e39-d07f-4762-bf33-d8bd401c0cd2@ipmtn.scoobidoo.top:8443?encryption=none&security=tls&sni=LA1.SCOOBIDOO.TOP&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-LalehYa2-MTN
 
