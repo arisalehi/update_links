@@ -1,0 +1,6 @@
+vless://4854d2f3-20dc-4c56-a643-83d3219d324a@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=0e043185#usr2-ws-Bahareh-reality
+vless://54635730-ade9-4e19-8a4e-b7d2d0e80e63@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko26.ariandoo.xyz#usr-cdn-Bahareh-MTN
+vless://3b82acc7-c668-4de7-883a-a39c4f260ca6@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=BAH1.SCOOBIDOO.TOP&type=ws&sni=BAH1.SCOOBIDOO.TOP#usr1-cdn-Bahareh-MCI
+vless://543905f1-6c27-4a98-9390-a77b111ab65c@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=BAH1.SCOOBIDOO.TOP#usr2-cdn-Bahareh2-MCI
+vless://3b82acc7-c668-4de7-883a-a39c4f260ca6@ipmbt.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=BAH1.SCOOBIDOO.TOP&fp=chrome&type=ws&sni=BAH1.SCOOBIDOO.TOP#usr1-cdn-Bahareh-MBN1
+vless://543905f1-6c27-4a98-9390-a77b111ab65c@ipmbt.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=BAH1.SCOOBIDOO.TOP#usr2-cdn-Bahareh2-MBN2
