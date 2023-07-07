@@ -3,3 +3,4 @@ vless://3fc0c482-ec46-4f1c-b8fd-52f32e001fb8@ipmtn.scoobidoo.top:2096?path=%2F&s
 vless://3fc0c482-ec46-4f1c-b8fd-52f32e001fb8@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=ht1.scoobidoo.top&type=ws&sni=HT1.SCOOBIDOO.TOP#usr1-cdn-Hos-Tiz-MCI
 vless://665238dd-3e0b-4289-d677-33c6a477c2e5@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=HT1.SCOOBIDOO.TOP#usr2-cdn-Hossein-Ti-MCI
 vless://665238dd-3e0b-4289-d677-33c6a477c2e5@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=HT1.SCOOBIDOO.TOP#usr2-cdn-Hossein-Ti-MTN
+vless://5305adc6-a542-466b-aed6-27abc119d6e3@newadmin.ariandoo.xyz:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sni=discord.com&sid=0e043185&spx=%2F#usr2-ws-Hossein_tiz_reality
