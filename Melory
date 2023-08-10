@@ -1,4 +1,3 @@
-vless://006dad61-559c-4224-f537-f9c46e490127@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=me1.scoobidoo.top&type=ws&sni=ME1.SCOOBIDOO.TOP#usr1-cdn-Melory1-MCI
-vless://006dad61-559c-4224-f537-f9c46e490127@ipmkh.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=me1.scoobidoo.top&type=ws&sni=ME1.SCOOBIDOO.TOP#usr1-cdn-Melory1-MKH
-vless://8ef997c9-7aa7-459b-d53d-8661004b9f43@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ME1.SCOOBIDOO.TOP#usr2-cdn-Melory2-MCI
-vless://8ef997c9-7aa7-459b-d53d-8661004b9f43@ipmkh.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ME1.SCOOBIDOO.TOP#usr2-cdn-Melory2-MKH
+vless://83c25910-b0c4-465e-9094-ccd10284e07f@ari-turbu2023.ddns.net:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=ROq4ryNRbIKE_xsADtFsTFGrW5DsVc-cwVSAGg1IUHc&sni=www.speedtest.net&sid=7dbc3ef5&spx=%2F#reality-Melory-reality
+vless://8ef997c9-7aa7-459b-d53d-8661004b9f43@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=MEL1.SCOOBIDOO.TOP#usr2-cdn-Melory2
+vless://29f35aba-fe21-44d2-f29e-60a31b77c688@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&type=ws&sni=MEL1.SCOOBIDOO.TOP#usr1-cdn-Melory-New
