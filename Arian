@@ -3,7 +3,7 @@ vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipmtn.scoobidoo.top:2096?path=%2F&s
 vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=ARI1.SCOOBIDOO.TOP&type=ws&sni=ARI1.SCOOBIDOO.TOP#usr1-cdn-Arian1-MCI
 vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr2-cdn-Arian2-MTN
 vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr2-cdn-Arian2-MCI
-vless://a7c8e47e-99b3-4560-857f-012f7cd8ae8c@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=discord.com&sid=0e043185#Arian-Reality
-vless://02eed02d-07e0-49f9-9320-644ba7607054@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko4.ariandoo.xyz#usr-cdn-Ariandoo
+vless://a7c8e47e-99b3-4560-857f-012f7cd8ae8c@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.speedtest.net&sid=0e043185#Arian-Reality
+vless://02eed02d-07e0-49f9-9320-644ba7607054@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko14.ariandoo.xyz#usr-cdn-Ariandoo
 vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@ipmtn.scoobidoo.top:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr3-cdn-Ariii-MTN
 vless://637dd8c8-dcbb-47cf-f34a-01a840fed3b2@mynoname.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr3-cdn-Ariii-MCI
