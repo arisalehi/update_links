@@ -1,0 +1,4 @@
+vless://c41efcbf-4b73-438e-8cb7-46e59448824f@newadmin.ariandoo.xyz:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.speedtest.net&sid=0e043185#usr2-ws-pznd-reality
+vless://9d356b50-bcbc-43ec-8d91-cdb5445063a9@ari-turbu2023.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=ROq4ryNRbIKE_xsADtFsTFGrW5DsVc-cwVSAGg1IUHc&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=www.cloudflare.com&sid=7dbc3ef5#reality-pznd-reality
+vless://87142d63-c3cc-4a9e-afd0-d36f8b087c73@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=PZND1.SCOOBIDOO.TOP#usr2-cdn-pznd2
+vless://ac98a536-c363-474a-a4d4-873d26a76d66@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=PZND1.SCOOBIDOO.TOP&type=ws&sni=PZND1.SCOOBIDOO.TOP#usr1-cdn-pznd1
