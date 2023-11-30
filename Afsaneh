@@ -1,4 +1,3 @@
 vless://30f67126-224b-4a46-8d9b-fb56b7567602@mynoname.ddns.net:2096?encryption=none&security=tls&sni=AFS1.SCOOBIDOO.TOP&type=ws&host=AFS1.SCOOBIDOO.TOP&path=%2F#usr1-cdn-Afsaneh1
 vless://cde33458-4cfa-4825-babf-cbfa9ff70fc4@mynoname.ddns.net:8443?encryption=none&security=tls&sni=AFS1.SCOOBIDOO.TOP&type=grpc#usr2-cdn-Afsaneh2
 vless://b2b483dc-c306-4d59-b76d-6f9104aec8cc@ari-turbu2023.ddns.net:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=ROq4ryNRbIKE_xsADtFsTFGrW5DsVc-cwVSAGg1IUHc&sni=www.cloudflare.com&sid=7dbc3ef5&spx=%2F#reality-Afsaneh-reality
-vless://ebb81dfd-6667-4bf1-9ce1-2f8caf6ea546@admin.scoobidoo.top:29800?type=tcp&path=%2F&host=tuya.com&headerType=http&security=none#Lab-test-Afsaneh-N
