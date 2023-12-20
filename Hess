@@ -3,3 +3,4 @@ vless://bf9176f3-4ea8-4d31-ba23-fd827ed2e9cf@newadmin.ariandoo.xyz:443?mode=gun&
 vless://cd1f9b3c-fe9b-43f2-8580-55293ef61288@newadmin.ariandoo.xyz:2096?type=grpc&serviceName=&security=reality&fp=firefox&pbk=zBp7STu3iDBJUqopd8O7H6TNZcaRBZk5pu8PhIv0g0Y&sni=Discord.com&sid=ddc3bdf4&spx=%2F#reality-2-Hess-reality3
 vless://5c1f2a62-585f-4a5d-b986-777f3e4e7bc0@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=HESS1.SCOOBIDOO.TOP&type=ws&sni=HESS1.SCOOBIDOO.TOP#usr1-cdn-Hess1
 vless://65b3b952-652e-4652-88cf-46d299409ff8@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=HES1.SCOOBIDOO.TOP#usr2-cdn-Hess2
+vless://bf9176f3-4ea8-4d31-ba23-fd827ed2e9cf@dooserverdoo.space:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sni=sourceforge.net&sid=0e043185&spx=%2F#usr2-reality-Hess-reality2
