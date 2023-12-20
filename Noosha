@@ -3,3 +3,4 @@ vless://3ae4c4ae-c008-45f4-f192-36322d145001@mynoname.ddns.net:8443?mode=gun&sec
 vless://3ae4c4ae-c008-45f4-f192-36322d145001@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=NOO1.SCOOBIDOO.TOP#usr2-cdn-Nooshafarin2-MTN
 vless://af77597a-f36d-4640-a080-9670529d7e31@ipshtl.scoobidoo.top:2096?encryption=none&security=tls&sni=NOO1.SCOOBIDOO.TOP&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=noo1.scoobidoo.top&path=%2F#usr1-cdn-Nooshafarin-Shatel
 vless://3ae4c4ae-c008-45f4-f192-36322d145001@ipshtl.scoobidoo.top:8443?encryption=none&security=tls&sni=NOO1.SCOOBIDOO.TOP&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#usr2-cdn-Nooshafarin2-Shatel
+vless://771c3027-d0f9-4237-a700-bf7484e9fc50@dooserverdoo.space:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sni=sourceforge.net&sid=0e043185&spx=%2F#usr2-reality-Noosha%20reality
