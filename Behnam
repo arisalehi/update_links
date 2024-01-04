@@ -1,2 +1,2 @@
-vless://a0b3d712-5429-47e5-a016-eb1f777ceccd@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=BEH1.SCOOBIDOO.TOP&type=ws&sni=BEH1.SCOOBIDOO.TOP#usr1-cdn-Behnam1-MCI
-vless://2caa5658-77ab-4dd9-e906-18eec0e55385@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=BEH1.SCOOBIDOO.TOP#usr2-cdn-Behnam2-MCI
+vless://a0b3d712-5429-47e5-a016-eb1f777ceccd@mynoname.ddns.net:2096?path=%2F&security=tls&encryption=none&host=BEH1.WEBTOODOO.TOP&type=ws&sni=BEH1.WEBTOODOO.TOP#usr1-cdn-Behnam1-MCI
+vless://2caa5658-77ab-4dd9-e906-18eec0e55385@mynoname.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=BEH1.WEBTOODOO.TOP#usr2-cdn-Behnam2-MCI
