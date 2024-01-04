@@ -1,5 +1,5 @@
-vless://81efb126-eec6-4b44-b127-2035645605de@real.unlimitedsky.link:2096?encryption=none&security=tls&sni=SAD1.SCOOBIDOO.TOP&type=ws&path=%2F#usr1-MCI
-vless://35f19bd3-0626-4b05-b344-feffd39d0188@real.unlimitedsky.link:8443?encryption=none&security=tls&sni=SAD1.SCOOBIDOO.TOP&type=grpc#usr2-MCI
+vless://81efb126-eec6-4b44-b127-2035645605de@real.unlimitedsky.link:2096?encryption=none&security=tls&sni=SAD1.WEBTOODOO.TOP&type=ws&path=%2F#usr1-MCI
+vless://35f19bd3-0626-4b05-b344-feffd39d0188@real.unlimitedsky.link:8443?encryption=none&security=tls&sni=SAD1.WEBTOODOO.TOP&type=grpc#usr2-MCI
 vless://ebc89766-8087-433e-bca3-77bc8b5e6b13@sad1.scoobidoo.top:8080?encryption=none&security=none&type=ws&path=%2F#ws-MCI
 vless://b5f94fc5-11bc-4262-b346-911eb795646a@dooserverdoo.space:443?encryption=none&security=reality&sni=sourceforge.net&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sid=0e043185&spx=%2F&type=grpc#MTN-Reality
 vless://ed1003af-7bf6-42ee-8640-04a647f89c7e@ipztl.ariandoo.xyz:8443?encryption=none&security=tls&sni=zinchenko7.ariandoo.xyz&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#MTN-Cdn
