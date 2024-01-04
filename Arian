@@ -1,9 +1,9 @@
 vless://97acc010-447d-479c-90a7-c23ea772f11c@real.unlimitedsky.link:443?type=grpc&serviceName=&security=tls&fp=firefox&alpn=http%2F1.1&sni=ari.pl4yeron3.link#Grpc-worker-ari-worker
 vless://97acc010-447d-479c-90a7-c23ea772f11c@sv1.unlimitedsky.link:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=ROq4ryNRbIKE_xsADtFsTFGrW5DsVc-cwVSAGg1IUHc&sni=www.cloudflare.com&sid=7dbc3ef5&spx=%2F#reality-ari-reality
-vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ARI1.SCOOBIDOO.TOP&fp=chrome&type=ws&sni=ARI1.SCOOBIDOO.TOP#usr1-cdn-Arian1-MTN
-vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@real.unlimitedsky.link:2096?path=%2F&security=tls&encryption=none&host=ARI1.SCOOBIDOO.TOP&type=ws&sni=ARI1.SCOOBIDOO.TOP#usr1-cdn-Arian1-MCI
-vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr2-cdn-Arian2-MTN
-vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@real.unlimitedsky.link:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.SCOOBIDOO.TOP#usr2-cdn-Arian2-MCI
+vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ARI1.WEBTOODOO.TOP&fp=chrome&type=ws&sni=ARI1.WEBTOODOO.TOP#usr1-cdn-Arian1-MTN
+vless://8d516ed1-33a4-4dc2-8eb1-f78e78c73203@real.unlimitedsky.link:2096?path=%2F&security=tls&encryption=none&host=ARI1.WEBTOODOO.TOP&type=ws&sni=ARI1.WEBTOODOO.TOP#usr1-cdn-Arian1-MCI
+vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.WEBTOODOO.TOP#usr2-cdn-Arian2-MTN
+vless://e3ab7e3b-27fb-4de3-9fcd-9bd4fead7d2f@real.unlimitedsky.link:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ARI1.WEBTOODOO.TOP#usr2-cdn-Arian2-MCI
 vless://a7c8e47e-99b3-4560-857f-012f7cd8ae8c@dooserverdoo.space:443?mode=gun&security=reality&encryption=none&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=sourceforge.net&sid=0e043185#Arian-Reality
 vless://02eed02d-07e0-49f9-9320-644ba7607054@ipztl.ariandoo.xyz:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=zinchenko14.ariandoo.xyz#usr-cdn-Ariandoo
 vless://18bdf122-10af-4765-9c19-13e7ad51613c@sv1.unlimitedsky.link:47703?mode=gun&security=reality&encryption=none&pbk=Puk26uC1nc4S1WsnXU-c_fnqewQixB8bEjC-e0JThlw&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=sourceforge.net&sid=9af0fa47#Reality-%D9%85%D9%84%D9%85%D9%84%D8%A7%D9%86%DB%8C_%D8%B4%D9%87%D8%B4%D9%87%D8%A7%D9%86%DB%8C
