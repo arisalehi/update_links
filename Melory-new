@@ -1,2 +1,2 @@
-vless://29f35aba-fe21-44d2-f29e-60a31b77c688@real.unlimitedsky.link:2096?encryption=none&security=tls&sni=MELI1.WEBTOODOO.TOP&type=ws&host=MELI1.WEBTOODOO.TOP&path=%2F#usr1-cdn-Melory-New
-vless://29f35aba-fe21-44d2-f29e-60a31b77c688@real.unlimitedsky.link:2096?encryption=none&security=tls&sni=MELI1.WEBTOODOO.TOP&type=ws&host=MELI1.WEBTOODOO.TOP&path=%2F#usr1-cdn-Melory-New
+vless://29f35aba-fe21-44d2-f29e-60a31b77c688@real.unlimitedsky.link:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=MELI1.WEBTOODOO.TOP&fp=chrome&type=ws&sni=MELI1.WEBTOODOO.TOP#usr1-cdn-Melory-New
+vless://58ad0c81-31b5-47b4-b1a7-38c428527f37@real.unlimitedsky.link:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=MEL.WEBTOODOO.TOP#usr2-cdn-Mel-new
