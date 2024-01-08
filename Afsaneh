@@ -1,4 +1,4 @@
-vless://30f67126-224b-4a46-8d9b-fb56b7567602@real.unlimitedsky.link:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=AFS1.WEBTOODOO.TOP&fp=chrome&type=ws&sni=AFS1.WEBTOODOO.TOP#usr1-cdn-Afsaneh1
-vless://cde33458-4cfa-4825-babf-cbfa9ff70fc4@real.unlimitedsky.link:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=AFS1.WEBTOODOO.TOP#usr2-cdn-Afsaneh2
+vless://30f67126-224b-4a46-8d9b-fb56b7567602@real.unlimitedsky.link:2096?type=ws&path=%2F&host=harchi2.aristarlight.top&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.aristarlight.top#usr1-cdn-Afsaneh1
+vless://cde33458-4cfa-4825-babf-cbfa9ff70fc4@real.unlimitedsky.link:8443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.aristarlight.top#usr2-cdn-Afsaneh2
 vless://b2b483dc-c306-4d59-b76d-6f9104aec8cc@sv1.unlimitedsky.link:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=ROq4ryNRbIKE_xsADtFsTFGrW5DsVc-cwVSAGg1IUHc&sni=www.cloudflare.com&sid=7dbc3ef5&spx=%2F#reality-Afsaneh-reality
 vless://b2b483dc-c306-4d59-b76d-6f9104aec8cc@real.unlimitedsky.link:443?type=grpc&serviceName=&security=tls&fp=firefox&alpn=http%2F1.1&sni=ari.pl4yeron3.link#Grpc-worker-Afsaneh-reality
