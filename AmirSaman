@@ -1,4 +1,2 @@
-vless://a2cda593-2aae-4753-99fd-2d91bfee6528@ipcl.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&host=AS1.WEBTOODOO.TOP&type=ws&sni=AS1.WEBTOODOO.TOP#usr1-cdn-Asaman-MCI
-vless://a2cda593-2aae-4753-99fd-2d91bfee6528@ipmtn.scoobidoo.top:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=AS1.WEBTOODOO.TOP&fp=chrome&type=ws&sni=AS1.WEBTOODOO.TOP#usr1-cdn-Asaman-MTN
-vless://55bb0537-abbb-4911-d820-7769abaaeaab@ipmtn.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=ASA1.WEBTOODOO.TOP#usr2-cdn-AmirSaman-MTN
-vless://55bb0537-abbb-4911-d820-7769abaaeaab@ipcl.scoobidoo.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=ASA1.WEBTOODOO.TOP#usr2-cdn-AmirSaman-MCI
+vless://a2cda593-2aae-4753-99fd-2d91bfee6528@real.unlimitedsky.link:2096?type=ws&path=%2F&host=harchi2.aristarlight.top&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.aristarlight.top#usr1-cdn-Asaman
+vless://55bb0537-abbb-4911-d820-7769abaaeaab@real.unlimitedsky.link:8443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.aristarlight.top#usr2-cdn-AmirSaman
