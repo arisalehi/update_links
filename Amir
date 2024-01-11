@@ -1,4 +1,4 @@
-vless://4b02d44f-1c72-4de6-9c43-b50d3975a206@admin.elchicharito.top:13233?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#tunell-tcp-http-Amiiir
+vless://4b02d44f-1c72-4de6-9c43-b50d3975a206@85.133.146.23:443?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#tunell-tcp-http-Amiiir
 vless://2a43ab7f-544a-4e60-a026-b5d03879c79a@sv1.unlimitedsky.link:47703?type=grpc&serviceName=&security=reality&fp=firefox&pbk=Puk26uC1nc4S1WsnXU-c_fnqewQixB8bEjC-e0JThlw&sni=www.ghbi.ir&sid=9af0fa47&spx=%2F#Reality-MCI-Amir-reality-mci
 vless://99777dd5-ab52-4b8a-8e39-b386832b6e95@real.unlimitedsky.link:2096?type=ws&path=%2F&host=harchi2.squirrelari.xyz&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.squirrelari.xyz#usr1-cdn-Amir1
 vless://28a65b9c-9031-4e25-a4e4-3f25f3a5eca7@real.unlimitedsky.link:8443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.squirrelari.xyz#usr2-cdn-Amir2
