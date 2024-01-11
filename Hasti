@@ -1,4 +1,4 @@
-vless://36c57502-955d-4b00-b738-6ba3fc03b0ec@admin.elchicharito.top:13233?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#tunell-tcp-http-hastiii
+vless://36c57502-955d-4b00-b738-6ba3fc03b0ec@ip.elchicharito.top:443?type=tcp&path=%2F&host=telewebion.com&headerType=http&security=none#tunell-tcp-http-hastiii
 vless://35863127-62de-446a-a381-5683bedef48e@newadmin.ariandoo.xyz:443?encryption=none&security=reality&sni=discord.com&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sid=0e043185&spx=%2F&type=grpc#usr2-ws-Hasti-reality%E2%9C%94
 vless://b47daef4-11f1-4222-b6e0-06506656134f@real.unlimitedsky.link:2096?type=ws&path=%2F&host=harchi2.squirrelari.xyz&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.squirrelari.xyz#usr1-cdn-Hasti
 vless://e593ff7d-d05f-497c-a1d7-a3179269f430@real.unlimitedsky.link:8443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.squirrelari.xyz#usr2-cdn-Hasti2
