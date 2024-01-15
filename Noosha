@@ -1,4 +1,4 @@
-vless://3fc5d349-51d7-410d-a99a-fcfe8ad2f780@ip.elchicharito.top:443?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#tunell-tcp-http-nooosh
+vless://3fc5d349-51d7-410d-a99a-fcfe8ad2f780@185.234.14.18:443?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#tunell-tcp-http-nooosh
 vless://af77597a-f36d-4640-a080-9670529d7e31@real.unlimitedsky.link:2096?type=ws&path=%2F&host=harchi2.squirrelari.xyz&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.squirrelari.xyz#usr1-cdn-Nooshafarin
 vless://5649eb15-a1c0-4646-8600-4a178a480b8d@real.unlimitedsky.link:2096?type=ws&path=%2F&host=harchi2.squirrelari.xyz&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.squirrelari.xyz#usr1-cdn-Noosha-new
 vless://3ae4c4ae-c008-45f4-f192-36322d145001@real.unlimitedsky.link:8443?type=grpc&serviceName=&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=harchi.squirrelari.xyz#usr2-cdn-Nooshafarin2
