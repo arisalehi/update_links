@@ -1,5 +1,5 @@
-vless://593d34e7-b6c6-45b3-abbb-3fbc53212a1b@185.234.14.18:26990?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#tunell-tcp-http-atooo
-vless://bf08b979-5e25-4986-a2f6-040b39b42760@185.234.14.18:80?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#ws-less-tunell-Atooos
+vless://593d34e7-b6c6-45b3-abbb-3fbc53212a1b@ari3.unlimitedsky.link:26990?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#tunell-tcp-http-atooo
+vless://bf08b979-5e25-4986-a2f6-040b39b42760@ari3.unlimitedsky.link:80?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#ws-less-tunell-Atooos
 vless://59b7be1e-41f4-4a58-82ca-2f20c94ca1b1@sv1.unlimitedsky.link:47703?mode=gun&security=reality&encryption=none&pbk=Puk26uC1nc4S1WsnXU-c_fnqewQixB8bEjC-e0JThlw&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=sourceforge.net&sid=9af0fa47#Reality-Atoosa-reality1
 vless://59b7be1e-41f4-4a58-82ca-2f20c94ca1b1@sv1.unlimitedsky.link:47703?type=grpc&serviceName=&security=reality&fp=firefox&pbk=Puk26uC1nc4S1WsnXU-c_fnqewQixB8bEjC-e0JThlw&sni=www.ghbi.ir&sid=9af0fa47&spx=%2F#Reality-MCI-Atoosa-reality1
 vless://909b7e5a-d00f-43c4-a541-81770e089700@ari1.unlimitedsky.link:443?type=grpc&serviceName=&security=reality&fp=firefox&pbk=RMLaz3uxRwox59uywSUBSwSrf8y7HRgSeqX-Mxoz4U0&sni=sourceforge.net&sid=0e043185&spx=%2F#usr2-reality-Atoosa-reality2
