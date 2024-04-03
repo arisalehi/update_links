@@ -1,0 +1,7 @@
+vless://d257e07a-39db-4e47-9620-2c4166dfe15e@ari3.unlimitedsky.link:80?type=ws&path=%2F&host=telewebion.com&security=none#ws-less-tunell-Amiri0
+
+vless://61c62ff0-9d84-4ebd-abf1-a52e946aadb8@ari3.unlimitedsky.link:26990?type=tcp&path=%2Fkik%2C%2F&host=telewebion.com&headerType=http&security=none#tunell-tcp-http-1-Amiri1
+
+vless://a0a8ea75-28b0-4104-8fd2-59b7dd4da1d9@ari3.unlimitedsky.link:56303?type=grpc&serviceName=&authority=&security=reality&pbk=UKKGjI43MIuzwii9pMzbiXmdx9eNo5KLW33X9W1jAko&fp=chrome&sni=digikala.com&sid=f4d73dcb&spx=%2F#reality-tunell-Amiri2
+
+trojan://g3iyiEW7vM@ari3.unlimitedsky.link:20404?type=grpc&serviceName=&authority=&security=none#trojan_grpc-Amiri3
