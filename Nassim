@@ -1,3 +1,3 @@
-vless://a05d1d5e-3e94-41d1-9552-fe66cbac84e5@185.234.14.18:80?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#ws-less-tunell-Nassim-n
-vless://6dcf0afa-bc0c-42cc-8d56-779cee91f837@185.234.14.18:26990?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#tunell-tcp-http-nasssim
+vless://a05d1d5e-3e94-41d1-9552-fe66cbac84e5@ari3.unlimitedsky.link:80?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws#ws-less-tunell-Nassim-n
+vless://6dcf0afa-bc0c-42cc-8d56-779cee91f837@ari3.unlimitedsky.link:26990?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#tunell-tcp-http-nasssim
 vless://68a32bd0-5430-4414-936b-72e22a66c01d@ari3.unlimitedsky.link:56303?type=grpc&serviceName=&security=reality&pbk=UKKGjI43MIuzwii9pMzbiXmdx9eNo5KLW33X9W1jAko&fp=chrome&sni=digikala.com&sid=f4d73dcb&spx=%2F#reality-tunell-nassim-real
